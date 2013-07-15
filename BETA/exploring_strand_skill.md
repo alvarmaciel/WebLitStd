@@ -1,10 +1,10 @@
-# Descriptores sugeridos para la versión BETA (con ejemplos como subitems):
+# Descriptores sugeridos para la versión BETA (con ejemplos como subítems):
 
-## Navigation /(using software tools to browse the Web)/
-- Accessing the Web using the common features of Web browsers
-  - Tabbed browsing
-    - create several tabs in several different browsers
-    - modify browser settings to affect tab defaults
+## Navegación /(Usando herramientas para navegar la Web)/
+- Acceso a la Web utilizando las características comunes de los navegadores web
+  - Navegación por pesatañas
+    - crear varias pestañas en diferentes navegadores
+    - modificar la configuración de los navegadores para afectar las pestañas predeterminadas
   - Bookmarklets / bookmarks
     - create or author a bookmarklet
     - organize a series of bookmarks
