@@ -1,7 +1,5 @@
 ![Licencia](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png "LICENCIA")
 
-![Licencia](http://www.creativecommons.org.ar/media/uploads/licencias/by-sa-125px.png "Licencia")
-
 # Creative Commons Legal Code
 
 ![][1]
