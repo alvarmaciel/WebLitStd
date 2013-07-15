@@ -11,7 +11,7 @@
     - share bookmarks with others
 - Using hyperlinks to access a range of resources on the Web
   - Image-based links
-    - identify +and select+ image based links on a web page
+    - identify --and select-- image based links on a web page
     - select image based links on a web page
   - Text-based links
     - identify and +select+ text based links on a web page
