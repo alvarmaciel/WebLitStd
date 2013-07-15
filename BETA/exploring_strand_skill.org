@@ -1,125 +1,122 @@
-Suggested descriptors for beta (with examples as sub-bullets):
+* Suggested descriptors for beta (with examples as sub-bullets):
 
-Navigation (using software tools to browse the Web)
-Accessing the Web using the common features of Web browsers
-Tabbed browsing
-create several tabs in several different browsers
-modify browser settings to affect tab defaults
-Bookmarklets / bookmarks
-create or author a bookmarklet
-organize a series of bookmarks
-share bookmarks with others
-Using hyperlinks to access a range of resources on the Web
-Image-based links
-identify and select image based links on a web page
-select image based links on a web page 
-Text-based links
-identify and select text based links on a web page
-select text based links on a web page
-Recognising the visual cues in everyday Web services
-Notification bubbles services
-Understanding of the purpose of, and “message” behind notification services
-Modification or editing of settings in notification services to suit user needs
-Secure     connection (HTTPS)
-identify the presence or non-presence of HTTPS on a browser
-Add or create secure connections to websites or web services
-Traversing networks that can be accessed without a Web browser
-Identifying and defining networks
-Identifying and defining tools that permit access to these networks (e.g., Twitter = Tweetdeck, IRC = Colloquy, etc.)
+** Navigation /(using software tools to browse the Web)/
+- Accessing the Web using the common features of Web browsers
+  - Tabbed browsing
+    - create several tabs in several different browsers
+    - modify browser settings to affect tab defaults
+  - Bookmarklets / bookmarks
+    - create or author a bookmarklet
+    - organize a series of bookmarks
+    - share bookmarks with others
+- Using hyperlinks to access a range of resources on the Web
+  - Image-based links
+    - identify +and select+ image based links on a web page
+    - select image based links on a web page
+  - Text-based links
+    - identify and +select+ text based links on a web page
+    - select text based links on a web page
+- Recognising the visual cues in everyday Web services
+  - Notification +bubbles+ services
+    - Understanding of the purpose of, and “message” behind notification services
+    - Modification or editing of settings in notification services to suit user needs
+  - Secure connection (HTTPS)
+    - identify the presence or non-presence of HTTPS on a browser
+    - Add or create secure connections to websites or web services
+- +Traversing networks that can be accessed without a Web browser+
+  - +Identifying and defining networks+
+  - +Identifying and defining tools that permit access to these networks (e.g., Twitter = Tweetdeck, IRC = Colloquy, etc.)+
+- Installing browser add-ons and extensions to provide additional functionality.
+  - +Use of tabs, or windows to improve functionality and use of the browser+
+  - Using Adblock to be exposed to fewer adverts
+  - Utilising a download manager for faster downloading with resume functionality
+  - Installing Foxclocks to know what time it is around the world
+  - Using Diigo to save, share and comment on bookmarks
+  - Using HTTPS Anywhere to provide additional security in the browser
 
-Installing browser add-ons and extensions to provide additional functionality.
-Use of tabs, or windows to improve functionality and use of the browser
-Using Adblock to be exposed to fewer adverts
-Utilising a download manager for faster downloading with resume functionality
-Installing Foxclocks to know what time it is around the world
-Using Diigo to save, share and comment on bookmarks
-Using HTTPS Anywhere to provide additional security in the browser
+** Web Mechanics /(understanding the Web ecosystem)/
+- Using, and understanding the difference between, URLs, IP addresses and search terms
+  - Use the URL/address bar to enter the web address or IP address of a website
+  - Manipulate the URL of a web address to move to another page of a website
+  - Use the search box in a search engine/browser to search for a website
+  - +Refine a search using specific keywords+
+  - DNS resolving URLs to IP addresses
+- Keeping up-to-date with sources of information on the Web +using RSS+
+  - Understanding RSS feeds, and being able to find/use the RSS feed of a website
+  - Working with, +developing ongoing interaction with+ and tuning, Feed readers
+  - Creating your own custom RSS feed using Yahoo Pipes/other
+- Demonstrating the difference(s) between +being logged into a website versus using it anonymously+ searching in different ways/contexts/sites
+  - Tuning a website for improved Search Engine Optimization (SEO) for different communities/contexts
+  - Using tools like ‘Collusion’ to visualise organisations that can track your searches
+  - Showing how clearing cookies can affect search results
+  - Locating different cached versions of pages and comparing them with the latest version.
 
-Web Mechanics (understanding the Web ecosystem)
-Using, and understanding the difference between, URLs, IP addresses and search terms
-Use the URL/address bar to enter the web address or IP address of a website
-Manipulate the URL of a web address to move to another page of a website
-Use the search box in a search engine/browser to search for a website
-Refine a search using specific keywords
-DNS resolving URLs to IP addresses
-Keeping up-to-date with sources of information on the Web using RSS
-Understanding RSS feeds, and being able to find/use the RSS feed of a website
-Working with, developing ongoing interaction with and tuning, Feed readers
-Creating your own custom RSS feed using Yahoo Pipes/other
-Demonstrating the difference(s) between being logged into a website versus using it anonymously searching in different ways/contexts/sites
-Tuning a website for improved Search Engine Optimization (SEO) for different communities/contexts
-Using tools like ‘Collusion’ to visualise organisations that can track your searches
-Showing how clearing cookies can affect search results
-Locating different cached versions of pages and comparing them with the latest version.
+** Search /(locating information, people and resources via the Web)/
+- Using keyboard shortcuts to make Web searches more efficient.
+  - Finding specific bits of text using CTRL-F/CMD+F
+  - Navigating a webmail inbox using keyboard shortcuts
+  - Finding relevant shortcuts and altering them within your browser
+  - Using CTRL+TAB and SHIFT+CTRL+TAB to move quickly between tabs
+  - Using CTRL+(number) to move to a specific tab
+- Entering search operators and keywords to find information efficiently.
+  - Testing and revising keywords to successfully information
+  - Developing & Ordering keywords in search queries
+  - Using Boolean operators
+  - The difference in using or not using quotation marks in search
+  - Identify differences between types of engines (eg Clustering Engines, Duckduckgo etc..)
+  - Using search tools to narrow or filter search information
+  - Use advanced search features, such as link: , filetype
+- Finding real-time or time-sensitive information using a range of search techniques.
+  - Understand the difference between “time” in search engine results, and “real-time” searches
+  - Searching microblogging services
+  - Using advanced features of search engine
+  - Using buffered vs real-time microblogging
+- Locating or finding the desired information you’re looking for within your search results
+  - Locating information within a list of search engine results
+  - Locating information on a webpage
+  - Using an internal search engine to fine-tune search results
+- Synthesising information found from online resources
+  - Combining information from two or more web pages obtained while exploring online
+  - Combining information from two textual pieces of information from different web pages
+  - Combining multimodal information (video, audio, image) from two different web pages
+  - Integrating your own opinion into what you have learned while searching online information
 
-Search (locating information, people and resources via the Web)
-Using keyboard shortcuts to make Web searches more efficient.
-Finding specific bits of text using CTRL-F/CMD+F
-Navigating a webmail inbox using keyboard shortcuts
-Finding relevant shortcuts and altering them within your browser
-Using CTRL+TAB and SHIFT+CTRL+TAB to move quickly between tabs
-Using CTRL+(number) to move to a specific tab
-Entering search operators and keywords to find information efficiently.
-Testing and revising keywords to successfully information
-Developing & Ordering keywords in search queries
-Using Boolean operators
-The difference in using or not using quotation marks in search
-Identify differences between types of engines (eg Clustering Engines, Duckduckgo etc..)
-Using search tools to narrow or filter search information
-Use advanced search features, such as link: , filetype
+** Credibility /(critically evaluating information found on the Web)/
+- Recognising and using markers and design styles in assessing the credibility of information presented on the Web.
+  - Use of types of domains (e.g. .edu, gov, .org, .ac.uk) to assess credibility
+  - Use of symbols such as ~ to denote personal URLs on larger sites to assess credibility
+  - Identify author or publisher of the web page/website to assess credibility
+  - Identify time stamp on a webpage (if it exists) to assess credibility
+  - Develop dispositions of healthy skepticism as you read and evaluate online information
+- Researching authorship and ownership using lookup tools.
+  - Using WHOIS to ascertain website ownership
+  - Looking up a company on the Companies House (or similar) website to see if a company/organisation is legitimate.
+  - Link to: (identifying sites that link back to a site)
+- Triangulating information from a number of sources to ascertain the origin veracity of information
+  - Find two web pages that support, or corroborate information you’re reading
+  - Search to try and find a website that possibly critiques or refutes the information you originally were reading
+  - Creating a false story and then finding the ways in which it
+  - Following Wikipedia footnotes and comparison with three other trusted sources (to avoid ‘Truthiness’)
+- Discriminating between 'original' and derivative Web content.
+  - Churnalism - comparing press releases with news ‘stories’
+  - Use search engines to identify exact phrase matches that might be derivatives or sources
+  - Take note of Creative Commons licensing
 
-Finding real-time or time-sensitive information using a range of search techniques.
-Understand the difference between “time” in search engine results, and “real-time” searches
-Searching microblogging services
-Using advanced features of search engine
-Using buffered vs real-time microblogging
-Locating or finding the desired information you’re looking for within your search results
-Locating information within a list of search engine results
-Locating information on a webpage
-Using an internal search engine to fine-tune search results
-Synthesising information found from online resources
-Combining information from two or more web pages obtained while exploring online
-Combining information from two textual pieces of information from different web pages
-Combining multimodal information (video, audio, image) from two different web pages
-Integrating your own opinion into what you have learned while searching online information
-
-Credibility (critically evaluating information found on the Web)
-Recognising and using markers and design styles in assessing the credibility of information presented on the Web.
-Use of types of domains (e.g. .edu, gov, .org, .ac.uk) to assess credibility
-Use of symbols such as ~ to denote personal URLs on larger sites to assess credibility
-Identify author or publisher of the web page/website to assess credibility
-Identify time stamp on a webpage (if it exists) to assess credibility
-Develop dispositions of healthy skepticism as you read and evaluate online information
-Researching authorship and ownership using lookup tools.
-Using WHOIS to ascertain website ownership
-Looking up a company on the Companies House (or similar) website to see if a company/organisation is legitimate.
-Link to: (identifying sites that link back to a site)
-Triangulating information from a number of sources to ascertain the origin veracity of information
-Find two web pages that support, or corroborate information you’re reading
-Search to try and find a website that possibly critiques or refutes the information you originally were reading
-Creating a false story and then finding the ways in which it 
-Following Wikipedia footnotes and comparison with three other trusted sources (to avoid ‘Truthiness’)
-Discriminating between 'original' and derivative Web content.
-Churnalism - comparing press releases with news ‘stories’
-Use search engines to identify exact phrase matches that might be derivatives or sources
-Take note of Creative Commons licensing
-
-
-Security (keeping systems, identities, and content safe)
-Detecting online scams and 'phishing' using by employing recognised tools and techniques.
-Consideration of the individual or group sending you the message (do you know, should you be expecting this message from the sender?)
-Turning on link previews in social media tools
-Copying-and-pasting links rather than clicking on emails
-Encrypting data and communications using software and add-ons.
-Writing, encrypt, send an e-mail, receive and decrypt a reply, using PKI (Public Key Encryption)
-Encrypt files on a computer email attachments using a private/public key
-Activate secure browsing plugin(s) to enforce https
-Define the difference between http:  and https:. Identifying specific times to use one or the other.
-Changing client to one that supports encrypted chat.
-Using VPN connections
-Avoiding Firesheep attacks by locking down wifi connection
-Forcing click-to-play for add-ons Changing the default behaviour of websites, add-ons and extensions to make Web browsing more secure
-Using extensions like NoScript to only enable JavaScript, Java and Flash for sites you trust.
+** Security /(keeping systems, identities, and content safe)/
+- Detecting online scams and 'phishing' +using+ by employing recognised tools and techniques.
+  - Consideration of the individual or group sending you the message /(do you know, should you be expecting this message from the sender?)/
+  - Turning on link previews in social media tools
+  - Copying-and-pasting links rather than clicking on emails
+- Encrypting data and communications using software and add-ons.
+  - Writing, encrypt, send an e-mail, receive and decrypt a reply, using PKI (Public Key Encryption)
+  - Encrypt +files on a computer+ email attachments using a private/public key
+  - Activate secure browsing plugin(s) to enforce https
+  - Define the difference between http:  and https:. Identifying specific times to use one or the other.
+  - Changing client to one that supports encrypted chat.
+  - Using VPN connections
+  - Avoiding Firesheep attacks by locking down wifi connection
+- Forcing click-to-play for add-ons Changing the default behaviour of websites, add-ons and extensions to make Web browsing more secure
+  - Using extensions like NoScript to only enable JavaScript, Java and Flash for sites you trust.
 
 
 
