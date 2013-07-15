@@ -1,4 +1,4 @@
-#Suggested descriptors for beta (with examples as sub-bullets):
+# Descriptores sugeridos para la versión BETA (con ejemplos como subitems):
 
 ## Navigation /(using software tools to browse the Web)/
 - Accessing the Web using the common features of Web browsers
