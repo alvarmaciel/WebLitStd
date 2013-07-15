@@ -14,20 +14,20 @@
     - identify ~~and select~~ image based links on a web page
     - select image based links on a web page
   - Text-based links
-    - identify and +select+ text based links on a web page
+    - identify and ~~select~~ text based links on a web page
     - select text based links on a web page
 - Recognising the visual cues in everyday Web services
-  - Notification +bubbles+ services
+  - Notification ~~bubbles~~ services
     - Understanding of the purpose of, and “message” behind notification services
     - Modification or editing of settings in notification services to suit user needs
   - Secure connection (HTTPS)
     - identify the presence or non-presence of HTTPS on a browser
     - Add or create secure connections to websites or web services
-- +Traversing networks that can be accessed without a Web browser+
-  - +Identifying and defining networks+
-  - +Identifying and defining tools that permit access to these networks (e.g., Twitter = Tweetdeck, IRC = Colloquy, etc.)+
+- ~~Traversing networks that can be accessed without a Web browser~~
+  - ~~Identifying and defining networks~~
+  - ~~Identifying and defining tools that permit access to these networks (e.g., Twitter = Tweetdeck, IRC = Colloquy, etc.)~~
 - Installing browser add-ons and extensions to provide additional functionality.
-  - +Use of tabs, or windows to improve functionality and use of the browser+
+  - ~~Use of tabs, or windows to improve functionality and use of the browser~~
   - Using Adblock to be exposed to fewer adverts
   - Utilising a download manager for faster downloading with resume functionality
   - Installing Foxclocks to know what time it is around the world
@@ -39,13 +39,13 @@
   - Use the URL/address bar to enter the web address or IP address of a website
   - Manipulate the URL of a web address to move to another page of a website
   - Use the search box in a search engine/browser to search for a website
-  - +Refine a search using specific keywords+
+  - ~~Refine a search using specific keywords~~
   - DNS resolving URLs to IP addresses
-- Keeping up-to-date with sources of information on the Web +using RSS+
+- Keeping up-to-date with sources of information on the Web ~~using RSS~~
   - Understanding RSS feeds, and being able to find/use the RSS feed of a website
-  - Working with, +developing ongoing interaction with+ and tuning, Feed readers
+  - Working with, ~~developing ongoing interaction with~~ and tuning, Feed readers
   - Creating your own custom RSS feed using Yahoo Pipes/other
-- Demonstrating the difference(s) between +being logged into a website versus using it anonymously+ searching in different ways/contexts/sites
+- Demonstrating the difference(s) between ~~being logged into a website versus using it anonymously~~ searching in different ways/contexts/sites
   - Tuning a website for improved Search Engine Optimization (SEO) for different communities/contexts
   - Using tools like ‘Collusion’ to visualise organisations that can track your searches
   - Showing how clearing cookies can affect search results
@@ -53,11 +53,11 @@
 
 ## Search /(locating information, people and resources via the Web)/
 - Using keyboard shortcuts to make Web searches more efficient.
-  - Finding specific bits of text using CTRL-F/CMD+F
+  - Finding specific bits of text using CTRL-F/CMD~~F
   - Navigating a webmail inbox using keyboard shortcuts
   - Finding relevant shortcuts and altering them within your browser
-  - Using CTRL+TAB and SHIFT+CTRL+TAB to move quickly between tabs
-  - Using CTRL+(number) to move to a specific tab
+  - Using CTRL~~TAB and SHIFT~~CTRL~~TAB to move quickly between tabs
+  - Using CTRL~~(number) to move to a specific tab
 - Entering search operators and keywords to find information efficiently.
   - Testing and revising keywords to successfully information
   - Developing & Ordering keywords in search queries
@@ -103,13 +103,13 @@
   - Take note of Creative Commons licensing
 
 ## Security /(keeping systems, identities, and content safe)/
-- Detecting online scams and 'phishing' +using+ by employing recognised tools and techniques.
+- Detecting online scams and 'phishing' ~~using~~ by employing recognised tools and techniques.
   - Consideration of the individual or group sending you the message /(do you know, should you be expecting this message from the sender?)/
   - Turning on link previews in social media tools
   - Copying-and-pasting links rather than clicking on emails
 - Encrypting data and communications using software and add-ons.
   - Writing, encrypt, send an e-mail, receive and decrypt a reply, using PKI (Public Key Encryption)
-  - Encrypt +files on a computer+ email attachments using a private/public key
+  - Encrypt ~~files on a computer~~ email attachments using a private/public key
   - Activate secure browsing plugin(s) to enforce https
   - Define the difference between http:  and https:. Identifying specific times to use one or the other.
   - Changing client to one that supports encrypted chat.
