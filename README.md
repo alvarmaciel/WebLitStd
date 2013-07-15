@@ -5,7 +5,7 @@ Decidi utilziar GIT porque nos permite tener un registro de las versiones y adem
 
 Es imprtante aclarar que no soy un experto en GIT. Esto es un trabajo y un aprendizaje en proceso, por lo que cualquier ayuda es bienvenida.
 
-en la [wik](https://github.com/alvarmaciel/WebLitWhitePaper/wiki) de este proyecto hay un tutorial para aprender a usar el sistema y podemos usar la sección [issues](https://github.com/alvarmaciel/WebLitWhitePaper/issues) para cualquier tipo de problema que encontremos
+en la [wiki](https://github.com/alvarmaciel/WebLitStd/wiki) de este proyecto hay un tutorial para aprender a usar el sistema y podemos usar la sección [issues](https://github.com/alvarmaciel/WebLitWhitePaper/issues) para cualquier tipo de problema que encontremos
 
 
 ### TODO
