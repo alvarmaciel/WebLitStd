@@ -1,6 +1,6 @@
-* Suggested descriptors for beta (with examples as sub-bullets):
+#Suggested descriptors for beta (with examples as sub-bullets):
 
-** Navigation /(using software tools to browse the Web)/
+## Navigation /(using software tools to browse the Web)/
 - Accessing the Web using the common features of Web browsers
   - Tabbed browsing
     - create several tabs in several different browsers
@@ -34,7 +34,7 @@
   - Using Diigo to save, share and comment on bookmarks
   - Using HTTPS Anywhere to provide additional security in the browser
 
-** Web Mechanics /(understanding the Web ecosystem)/
+## Web Mechanics /(understanding the Web ecosystem)/
 - Using, and understanding the difference between, URLs, IP addresses and search terms
   - Use the URL/address bar to enter the web address or IP address of a website
   - Manipulate the URL of a web address to move to another page of a website
@@ -51,7 +51,7 @@
   - Showing how clearing cookies can affect search results
   - Locating different cached versions of pages and comparing them with the latest version.
 
-** Search /(locating information, people and resources via the Web)/
+## Search /(locating information, people and resources via the Web)/
 - Using keyboard shortcuts to make Web searches more efficient.
   - Finding specific bits of text using CTRL-F/CMD+F
   - Navigating a webmail inbox using keyboard shortcuts
@@ -81,7 +81,7 @@
   - Combining multimodal information (video, audio, image) from two different web pages
   - Integrating your own opinion into what you have learned while searching online information
 
-** Credibility /(critically evaluating information found on the Web)/
+## Credibility /(critically evaluating information found on the Web)/
 - Recognising and using markers and design styles in assessing the credibility of information presented on the Web.
   - Use of types of domains (e.g. .edu, gov, .org, .ac.uk) to assess credibility
   - Use of symbols such as ~ to denote personal URLs on larger sites to assess credibility
@@ -102,7 +102,7 @@
   - Use search engines to identify exact phrase matches that might be derivatives or sources
   - Take note of Creative Commons licensing
 
-** Security /(keeping systems, identities, and content safe)/
+## Security /(keeping systems, identities, and content safe)/
 - Detecting online scams and 'phishing' +using+ by employing recognised tools and techniques.
   - Consideration of the individual or group sending you the message /(do you know, should you be expecting this message from the sender?)/
   - Turning on link previews in social media tools
@@ -117,6 +117,3 @@
   - Avoiding Firesheep attacks by locking down wifi connection
 - Forcing click-to-play for add-ons Changing the default behaviour of websites, add-ons and extensions to make Web browsing more secure
   - Using extensions like NoScript to only enable JavaScript, Java and Flash for sites you trust.
-
-
-
