@@ -15,3 +15,8 @@ en la [wiki](https://github.com/alvarmaciel/WebLitStd/wiki) de este proyecto hay
 ### Traducción del Paper de Alfabetizaciones Web
 * Sintaxys *MarkDown*
 * Fuente: https://wiki.mozilla.org/Learning/WebLiteraciesWhitePaper
+
+
+### Licencia
+
+![Licencia](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png "LICENCIA")
