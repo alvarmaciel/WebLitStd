@@ -1,33 +1,33 @@
-P===Introducción===líniea
-El Estándar de Alfabetización Web se compone de tres líneas: Exploración, Construcción y Conexión. A su vez, cada línea se compone de varias competencias. Cada competencia se compone de una serie de habilidades.
+===Introducción===
+El Estándar de Alfabetización Web se compone de tres hilos: Exploración, Construcción y Conexión. A su vez, cada hilo se compone de varias competencias. Cada competencia se compone de una serie de habilidades.
 
-===[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring_Es/ Explorar]===
-<em>Navegar por la web</em>
-<p>La línea Explorar está compuesta de las siguientes copetencias:</p>
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Navigation Navigation]</strong> - using software tools to browse the Web
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/WebMechanics Web Mechanics]</strong> - understanding the Web ecosystem
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Search Search]</strong> - locating information, people and resources via the Web
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Credibility Credibility]</strong> - critically evaluating information found on the Web
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Security Security]</strong> - keeping systems, identities, and content safe
+===[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring_Es/ Explorando]===
+<em>Navegando por la web</em>
+<p>El hilo Explorar está compuesto de las siguientes competencias:</p>
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Navigation_Es Navegación]</strong> - usar herramientas de software para navegar la web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/WebMechanics_Es Mecánica de la Web ]</strong> - Comprendiendo el ecosistema Web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Search_Es Búsqueda]</strong> - Localizar información, gente y recursos a travéz de la web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Credibility_Es Credibilidad]</strong> - Evaluación crítica de la información encontrada en la web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Security_Es Seguridad]</strong> - mantenimiento de sistemas, identidades, y seguridad de contenidos
 
 <br />
 
-===[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/ Building]===
-<em>Creating for the Web</em>
-<p>The Building strand is made up of the following competencies:</p>
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/ComposingForTheWeb Composing for the Web]</strong> - creating content and making use of technologies for the Web
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/Remixing Remixing]</strong> - modifying existing Web resources to create something new
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/HTML HTML]</strong> - reading and writing the building blocks of the Web
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/CSS CSS]</strong> - reading, writing, testing and applying style sheets to alter the visual appearance of HTML
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/DesignAccessibility Design & accessibility]</strong> - creating universally effective communications through Web resources
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/CodingScripting Coding/scripting]</strong> - creating interactive experiences on the Web
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/Infrastructure Infrastructure]</strong> - understanding the Internet stack
+===[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building_Es/ Construyendo]===
+<em>Creando para la Web</em>
+<p>El hilo Construcción está compuesto de las siguientes competencias:</p>
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/ComposingForTheWeb_Es Componer para la Web]</strong> - crear contenido y hacer uso de tecnologías para la Web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/Remixing_Es Remixing]</strong> - modificación de los servicios Web existentes para crear algo nuevo
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/HTML_Es HTML]</strong> - lectura y escritura de los bloques de construcción de la Web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/CSS_Es CSS]</strong> - lectura, escritura, testeo y aplicación de hojas de estilo para alterar la apariencia visual de los HTML
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/DesignAccessibility_Es Diseño y accesibilidad]</strong> - creación comunicación universalmente efectiva a travéz de recursos Web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/CodingScripting_Es Coding/scripting]</strong> - creación experiencias interactivas en la Web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/Infrastructure_Es Infrastructura]</strong> - comprensión de la infraestructura de Internet
 <br />
 
-===[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting/ Connecting]===
-<em>Participating on the Web</em>
-<p>The Connecting strand is made up of the following competencies:</p>
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting/SharingCollaborating Sharing & Collaborating]</strong> - jointly creating and providing access to Web resources
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting/CommunityParticipation Community participation]</strong> - getting involved in Web communities and understanding their practices
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting/Privacy Privacy]</strong> - examining the consequences of sharing data online
-* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting/OpenPractices Open practices]</strong> - helping to keep the Web democratic and universally accessible
+===[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting_Es/ Conectando]===
+<em>Participando de la Web</em>
+<p>El hilo Conectando está compuesto de las siguientes competencias:</p>
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting/SharingCollaborating_Es Compartiendo y Colaborando]</strong> - Creación y prestación conjunta de acceso a los recursos de la Web  - jointly creating and providing access to Web resources -
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting/CommunityParticipation_Es Particicpación comunitaria]</strong> - involucrarse en comunidades Web y comprender sus prácticas
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting/Privacy_Es Privacidad]</strong> - examinar las consecuencias de compartir datos en línea
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting/OpenPractices_Es Prácticas abiertas]</strong> - ayudando a mantener la Web deocrática y universalmente abierta
