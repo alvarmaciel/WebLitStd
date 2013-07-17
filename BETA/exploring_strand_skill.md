@@ -34,7 +34,7 @@
   - Usar Diigo para guardad, compartir y comentar favoritos
   - Usar HTTPS Anywhere para proveeer seguridad adicional al navegador
 
-## Web Mechanics /(understanding the Web ecosystem)/
+## Mecánica de la Web  /(Comprendiendo el ecosistema Web)/
 - Using, and understanding the difference between, URLs, IP addresses and search terms
   - Use the URL/address bar to enter the web address or IP address of a website
   - Manipulate the URL of a web address to move to another page of a website
