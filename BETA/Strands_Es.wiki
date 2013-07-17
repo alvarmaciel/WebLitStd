@@ -1,0 +1,33 @@
+P===Introducción===líniea
+El Estándar de Alfabetización Web se compone de tres líneas: Exploración, Construcción y Conexión. A su vez, cada línea se compone de varias competencias. Cada competencia se compone de una serie de habilidades.
+
+===[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring_Es/ Explorar]===
+<em>Navegar por la web</em>
+<p>La línea Explorar está compuesta de las siguientes copetencias:</p>
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Navigation Navigation]</strong> - using software tools to browse the Web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/WebMechanics Web Mechanics]</strong> - understanding the Web ecosystem
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Search Search]</strong> - locating information, people and resources via the Web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Credibility Credibility]</strong> - critically evaluating information found on the Web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Security Security]</strong> - keeping systems, identities, and content safe
+
+<br />
+
+===[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/ Building]===
+<em>Creating for the Web</em>
+<p>The Building strand is made up of the following competencies:</p>
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/ComposingForTheWeb Composing for the Web]</strong> - creating content and making use of technologies for the Web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/Remixing Remixing]</strong> - modifying existing Web resources to create something new
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/HTML HTML]</strong> - reading and writing the building blocks of the Web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/CSS CSS]</strong> - reading, writing, testing and applying style sheets to alter the visual appearance of HTML
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/DesignAccessibility Design & accessibility]</strong> - creating universally effective communications through Web resources
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/CodingScripting Coding/scripting]</strong> - creating interactive experiences on the Web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building/Infrastructure Infrastructure]</strong> - understanding the Internet stack
+<br />
+
+===[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting/ Connecting]===
+<em>Participating on the Web</em>
+<p>The Connecting strand is made up of the following competencies:</p>
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting/SharingCollaborating Sharing & Collaborating]</strong> - jointly creating and providing access to Web resources
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting/CommunityParticipation Community participation]</strong> - getting involved in Web communities and understanding their practices
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting/Privacy Privacy]</strong> - examining the consequences of sharing data online
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting/OpenPractices Open practices]</strong> - helping to keep the Web democratic and universally accessible
