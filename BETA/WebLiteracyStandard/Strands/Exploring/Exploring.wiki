@@ -1,0 +1,11 @@
+<em>Navigating the Web</em>
+
+<p>The Exploring strand is made up of the following competencies:</p>
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Navigation Navigation]</strong> - using software tools to browse the Web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/WebMechanics Web Mechanics]</strong> - understanding the Web ecosystem
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Search Search]</strong> - locating information, people and resources via the Web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Credibility Credibility]</strong> - critically evaluating information found on the Web
+* <strong>[https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Security Security]</strong> - keeping systems, identities, and content safe
+
+<br />
+
