@@ -5,34 +5,34 @@
   - Navegación por pesatañas
     - crear varias pestañas en diferentes navegadores
     - modificar la configuración de los navegadores para afectar las pestañas predeterminadas
-  - Bookmarklets / bookmarks
-    - create or author a bookmarklet
-    - organize a series of bookmarks
-    - share bookmarks with others
-- Using hyperlinks to access a range of resources on the Web
-  - Image-based links
-    - identify ~~and select~~ image based links on a web page
-    - select image based links on a web page
-  - Text-based links
-    - identify and ~~select~~ text based links on a web page
-    - select text based links on a web page
-- Recognising the visual cues in everyday Web services
-  - Notification ~~bubbles~~ services
-    - Understanding of the purpose of, and “message” behind notification services
-    - Modification or editing of settings in notification services to suit user needs
-  - Secure connection (HTTPS)
-    - identify the presence or non-presence of HTTPS on a browser
-    - Add or create secure connections to websites or web services
-- ~~Traversing networks that can be accessed without a Web browser~~
+  - Marcadores / marcado
+    - crear un marcador
+    - Organizar una serie de marcadores
+    - Compartir marcadores con otros
+- Usar hipervínculos para acceder a una serie de recursos web
+  - vínculo basados en imágenes
+    - identificar ~~y seleccionar~~ vínculos basados en imágenes en una página web
+    - seleccionar vínculos basados en imágenes en una página web
+  - Vínculos basados en textos
+    - identificar ~~y seleccionar~~ vínculos basados en textos en una página web
+    - seleccionar vínculos basados en textos en una página web
+- Reconocer las señales visuales en los servicios habituales de la Web
+  - servicios de Notificacion de ~~burbujas~~ 
+    - la comprensión de  los propósitos y "mensajes" detras de los servicios de notificación.
+    -la modificación o edición de las configuraciones en los servicios de notificación para que se ajusten a las necesidades de los usuarios
+  - Conexiones seguras (HTTPS)
+    - identificar la presencia o no presencia de HTTPS en un navegador
+    - Agregar o crear conexiones seguras hacia sitios o servicios web
+- ~~Atravesando redes que se puede acceder sin un navegador Web~~
   - ~~Identifying and defining networks~~
   - ~~Identifying and defining tools that permit access to these networks (e.g., Twitter = Tweetdeck, IRC = Colloquy, etc.)~~
-- Installing browser add-ons and extensions to provide additional functionality.
-  - ~~Use of tabs, or windows to improve functionality and use of the browser~~
-  - Using Adblock to be exposed to fewer adverts
-  - Utilising a download manager for faster downloading with resume functionality
-  - Installing Foxclocks to know what time it is around the world
-  - Using Diigo to save, share and comment on bookmarks
-  - Using HTTPS Anywhere to provide additional security in the browser
+- Instalanr extensiones del navegador para proveer funcionalidades adicionales.
+  - ~~Usar pestañas o ventanas para mejorar las funcionalidades y usos del navegador~~
+  - Usar Adblock para tener menor exposición a los avisos
+  - Utilizar un manejador de descargas para acelerar las bajadas y tener la funcionalidad de resumir bajadas
+  - Instalar FoxClocks para saber el horario del resto del mundo
+  - Usar Diigo para guardad, compartir y comentar favoritos
+  - Usar HTTPS Anywhere para proveeer seguridad adicional al navegador
 
 ## Web Mechanics /(understanding the Web ecosystem)/
 - Using, and understanding the difference between, URLs, IP addresses and search terms
