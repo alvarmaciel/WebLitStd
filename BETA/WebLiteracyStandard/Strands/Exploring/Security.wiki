@@ -1,0 +1,5 @@
+<em>Keeping systems, identities, and content safe</em>
+<p>The 'Security' competency is made up of the following skills:</p>
+* Detecting online scams and 'phishing' by employing recognised tools and techniques
+* Encrypting data and communications using software and add-ons
+* Changing the default behaviour of websites, add-ons and extensions to make Web browsing more secure
