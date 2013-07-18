@@ -1,6 +1,6 @@
-<em>Using software tools to browse the Web.</em>
-<p>The 'Navigation' competency is made up of the following skills:</p>
-* Accessing the Web using the common features of Web browsers
-* Using hyperlinks to access a range of resources on the Web
-* Recognising the visual cues in everyday Web services
-* Installing browser add-ons and extensions to provide additional functionality
+<em>Critically evaluating information found on the Web</em>
+<p>The 'Credibility' competency is made up of the following skills:</p>
+* [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Credibility/markers-and-design-styles Recognising and using markers and design styles in assessing the credibility of information presented on the Web]
+* [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Credibility/using-lookup-tools Researching authorship and ownership using lookup tools]
+* [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Credibility/triangulating-info Triangulating information from a number of sources to ascertain the veracity of information]
+* [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Credibility/derivative-content Discriminating between 'original' and derivative Web content]

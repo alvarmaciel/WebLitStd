@@ -1,0 +1,9 @@
+<strong>Encrypting data and communications using software and add-ons</strong>
+
+Examples:
+<ul>
+<li>Encrypt files on a computer email attachments using a private/public key</li>
+<li>Activate secure browsing plugin(s) to enforce https</li>
+<li>Changing chat client to one that supports encryption</li>
+<li>Using VPN connections</li>
+</ul>

@@ -1,0 +1,9 @@
+<strong>Entering search operators and keywords to find information efficiently</strong>
+
+Examples:
+<ul>
+<li>Changing the order of keywords in search queries in a strategic way</li>
+<li>Using Boolean operators</li>
+<li>Adding quotation marks to get a specific phrase in search results</li>
+<li>Using search tools (such as 'date published') to narrow or filter search information</li>
+</ul>

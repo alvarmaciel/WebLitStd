@@ -1,0 +1,15 @@
+<strong>Accessing the Web using the common features of Web browsers</strong>
+
+Examples:
+<ul>
+<li>Tabbed browsing</li>
+<ul>
+<li>create several tabs in several different browsers</li>
+<li>modify browser settings to affect tab defaults</li>
+</ul>
+<li>Bookmarklets / bookmarks</li>
+<ul>
+<li>create or author a bookmarklet</li>
+<li>organize a series of bookmarks</li>
+<li>share bookmarks with others</li>
+</ul>

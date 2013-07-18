@@ -1,6 +1,5 @@
-<em>Using software tools to browse the Web.</em>
-<p>The 'Navigation' competency is made up of the following skills:</p>
-* Accessing the Web using the common features of Web browsers
-* Using hyperlinks to access a range of resources on the Web
-* Recognising the visual cues in everyday Web services
-* Installing browser add-ons and extensions to provide additional functionality
+<em>Understanding the Web ecosystem</em>
+<p>The 'Web Mechanics' competency is made up of the following skills:</p>
+*  [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/WebMechanics/URLs-IPaddresses-search-terms Using, and understanding the difference between, URLs, IP addresses and search terms]
+* [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/WebMechanics/keeping-up-to-date Keeping up-to-date with sources of information on the Web]
+* [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/WebMechanics/searching-in-different-ways Demonstrating the difference(s) between searching in different ways/contexts/sites]
