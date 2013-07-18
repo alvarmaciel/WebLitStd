@@ -1,3 +1,4 @@
+<h2>Security</h2>
 <em>Keeping systems, identities, and content safe</em>
 <p>The 'Security' competency is made up of the following skills:</p>
 * [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Security/detecting-online-scams Detecting online scams and 'phishing' by employing recognized tools and techniques]
