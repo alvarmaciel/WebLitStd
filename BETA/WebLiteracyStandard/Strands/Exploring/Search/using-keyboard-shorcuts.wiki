@@ -1,0 +1,8 @@
+<strong>Using keyboard shortcuts to make Web searches more efficient</strong>
+
+Examples:
+<ul>
+<li>Finding specific bits of text using CTRL-F/CMD+F</li>
+<li>Navigating a webmail inbox using keyboard shortcuts</li>
+<li>Finding relevant shortcuts and altering them within your browser</li>
+</ul>

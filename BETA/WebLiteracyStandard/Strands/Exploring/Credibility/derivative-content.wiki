@@ -1,0 +1,8 @@
+<strong>Discriminating between 'original' and derivative Web content</strong>
+
+Examples:
+<ul>
+<li>Spotting 'churnalism' by comparing press releases with news ‘stories’</li>
+<li>Using search engines to identify exact phrase matches that might be derivatives or sources</li>
+<li>Taking note of Creative Commons licensing</li>
+</ul>

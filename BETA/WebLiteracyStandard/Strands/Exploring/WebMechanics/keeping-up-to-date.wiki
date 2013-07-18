@@ -1,0 +1,8 @@
+<strong>Keeping up-to-date with sources of information on the Web</strong>
+
+Examples:
+<ul>
+<li>Understanding RSS feeds, and being able to find/use the RSS feed of a website</li>
+<li>Working with, and tuning, RSS feed readers</li>
+<li>Creating your own custom RSS feed using Yahoo! Pipes</li>
+</ul>

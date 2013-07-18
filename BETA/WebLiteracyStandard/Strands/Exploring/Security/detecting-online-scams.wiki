@@ -1,0 +1,8 @@
+<strong>Detecting online scams and 'phishing' by employing recognised tools and techniques</strong>
+
+Examples:
+<ul>
+<li>Considering the individual or group sending the message</li>
+<li>Turning on link previews in social media tools</li>
+<li>Copying-and-pasting links rather than clicking on emails</li>
+</ul>

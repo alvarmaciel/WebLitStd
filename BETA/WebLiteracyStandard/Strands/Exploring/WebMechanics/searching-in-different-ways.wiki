@@ -1,0 +1,8 @@
+<strong>Demonstrating the difference(s) between searching in different ways/contexts/sites</strong>
+
+Examples:
+<ul>
+<li>Using tools like ‘Collusion’ to visualise organisations that can track your searches</li>
+<li>Showing how clearing cookies can affect search results</li>
+<li>Locating different cached versions of pages and comparing them with the latest version</li>
+</ul>

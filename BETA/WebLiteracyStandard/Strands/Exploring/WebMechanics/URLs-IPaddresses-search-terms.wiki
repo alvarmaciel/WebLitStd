@@ -1,0 +1,9 @@
+<strong>Using, and understanding the difference between, URLs, IP addresses and search terms</strong>
+
+Examples:
+<ul>
+<li>Using the URL/address bar to enter the web address or IP address of a website</li>
+<li>Manipulating the URL of a web address to move to another page of a website</li>
+<li>Using the search box in a search engine/browser to search for a website</li>
+<li>Explaining how DNS resolves URLs to IP addresses</li>
+</ul>

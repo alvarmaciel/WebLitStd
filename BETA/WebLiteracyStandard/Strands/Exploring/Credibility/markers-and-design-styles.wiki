@@ -1,0 +1,8 @@
+<strong>Recognising and using markers and design styles in assessing the credibility of information presented on the Web</strong>
+
+Examples:
+<ul>
+<li>Recognising types of domains (e.g. .edu, gov, .org, .ac.uk) to assess credibility</li>
+<li>Identifying time stamp on a webpage (if it exists) to assess credibility</li>
+<li>Develop dispositions (and reasons for) healthy skepticism as you read and evaluate online information</li>
+</ul>
