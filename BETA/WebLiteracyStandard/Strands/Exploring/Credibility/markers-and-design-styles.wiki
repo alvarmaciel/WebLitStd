@@ -1,8 +1,8 @@
-<strong>Recognising and using markers and design styles in assessing the credibility of information presented on the Web</strong>
+<strong>Reconocer y utilizar marcadores y estilos de diseño en la evaluación de la credibilidad de la información presentada en la Web</strong>
 
-Examples:
+Ejemplos:
 <ul>
-<li>Recognising types of domains (e.g. .edu, gov, .org, .ac.uk) to assess credibility</li>
-<li>Identifying time stamp on a webpage (if it exists) to assess credibility</li>
-<li>Develop dispositions (and reasons for) healthy skepticism as you read and evaluate online information</li>
+<li>Reconocer tipos de dominos (e.j. .edu, gov, .org, .ac.uk) para evaluar la credibilidad</li>
+<li>Identificar las marcas de tiempo en una página web (si tuviera) para evalura la credibilidad</li>
+<li>Desarrollar disposiciones (y razones) de un saludable esceptisicmo mientras lees y evaluas informació en línea</li>
 </ul>

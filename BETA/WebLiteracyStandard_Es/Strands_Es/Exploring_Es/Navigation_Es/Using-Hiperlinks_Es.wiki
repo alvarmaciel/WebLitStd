@@ -1,0 +1,16 @@
+<strong>Usar hipervínculos para acceder a una serie de recursos en la Web</strong>
+
+Ejemplos:
+<ul>
+<li>Vínculos basados en imágenes</li>
+<ul>
+<li>identificar vínculos basados en imágenes en una página web</li>
+<li>seleccionar vínculos basados en imágenes en una página web </li>
+</ul>
+</ul>
+<ul>
+<li>Vínculos basados en texto</li>
+<ul>
+<li>identificar vínculos basados en texto en una página web</li>
+<li>seleccionar vínculos basados en textos en una página web</li>
+</ul>

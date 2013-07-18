@@ -1,0 +1,8 @@
+<strong>Discriminar entre el contenido Web 'original' y derivados</strong>
+
+Ejemplos:
+<ul>
+<li>Detectar 'churnalism' comparando notas de prensa con 'historias' de las noticias (hay que mejorar esta traducción)</li>
+<li>Utilizar motores de búsqueda para identificar de frases exactas que coincidan de obras  derivados o fuentes primarias</li>
+<li>Tener en cuenta las licencias Creative Commons</li>
+</ul>

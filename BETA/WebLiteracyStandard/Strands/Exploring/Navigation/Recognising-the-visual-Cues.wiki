@@ -1,19 +1,19 @@
-<strong>Recognising the visual cues in everyday Web services</strong>
+<strong>Reconocer las señales visuales en los servicios habituales de la red</strong>
 
-Examples:
+Ejemplos:
 <ul>
-<li>Notification services</li>
+<li>Servicios de notificación</li>
 <ul>
-<li>Understanding of the purpose of, and “message” behind notification services</li>
-<li>Modification or editing of settings in notification services to suit user needs
+<li>Comprender el propósito y "mensajes" detras de los servicios de notificación</li>
+<li>Modificar o editar las configuraciones en los servicios de notificación para que se ajusten a las necesidades de los usuarios
 </li>
 </ul>
 </ul>
 <ul>
-<li>Secure connection (HTTPS)
+<li>Conexiones seguras (HTTPS)
 </li>
 <ul>
-<li>identify the presence or non-presence of HTTPS on a browser</li>
-<li>idd or create secure connections to websites or web services</li>
+<li>identificar la presencia o no presencia de HTTPS en un navegador</li>
+<li>Agregar o crear conexiones seguras hacia sitios o servicios web</li>
 </ul>
 </ul>

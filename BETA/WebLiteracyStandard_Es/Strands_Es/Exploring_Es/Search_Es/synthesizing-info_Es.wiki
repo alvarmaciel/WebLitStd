@@ -1,0 +1,8 @@
+<strong>Synthesizing information found from online resources</strong>
+
+Examples:
+<ul>
+<li>Combining information from two or more web pages obtained while exploring online</li>
+<li>Combining multimodal information (video, audio, image) from two different web pages</li>
+<li>Integrating your own opinion into what you have learned while searching online information</li>
+</ul>

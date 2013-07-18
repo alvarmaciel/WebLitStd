@@ -1,0 +1,6 @@
+<strong>Changing the default behavior of websites, add-ons and extensions to make Web browsing more secure</strong>
+
+Examples:
+<ul>
+<li>Using extensions like NoScript to only enable JavaScript, Java and Flash for trusted sites</li>
+</ul>

@@ -1,0 +1,8 @@
+<strong>Mantenerse al día con las fuentes de información en la Web</strong>
+
+Examples:
+<ul>
+<li>Comprender los feeds RSS, y ser capaz de encontrar/usar el feed RSS de un sitio web</li>
+<li>Trabajar con, y mejorar, los lectores RSS</li>
+<li>Crear tu propio y personalizado feed RSS usando Yahoo! Pipes</li>
+</ul>

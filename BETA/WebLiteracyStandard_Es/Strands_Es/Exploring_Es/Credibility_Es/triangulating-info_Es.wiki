@@ -1,0 +1,9 @@
+<strong>Triangulating information from a number of sources to ascertain the veracity of information</strong>
+
+Examples:
+<ul>
+<li>Finding two web pages that support, or corroborate information you’re reading</li>
+<li>Searching to find a website that possibly critiques or refutes the information you originally were reading</li>
+<li>Creating a false story and then finding the ways in which it</li>
+<li>Following Wikipedia footnotes and comparison with three other trusted sources</li>
+</ul>

@@ -1,5 +1,5 @@
 <em>Comprendiendo el ecosistema Web </em>
 <p>La competencia 'Mecánica de la Web' está compuesta de las siguentes habilidades:</p>
-* Usar y comprender  las diferencias entre URL, direcciones IP y términos de búsqueda
-* Mantenerse al día con las fuentes de información en la Web
-* Demostrar las diferencias entre buscar en diferentes formas/contextos/sitios
+* [https://wiki.mozilla.org/Learning/WebLiteracyStandard_Es/Exploring_Es/WebMechanics_Es/URLs-IPaddresses-search-terms_Es Usar y comprender  las diferencias entre URL, direcciones IP y términos de búsqueda]
+* [https://wiki.mozilla.org/Learning/WebLiteracyStandard_Es/Exploring_Es/WebMechanics_Es/keeping-up-to-date_Es Mantenerse al día con las fuentes de información en la Web]
+* [https://wiki.mozilla.org/Learning/WebLiteracyStandard_Es/Exploring_Es/WebMechanics_Es/searching-in-different-ways_Es Demostrar las diferencias entre buscar en diferentes formas/contextos/sitios]

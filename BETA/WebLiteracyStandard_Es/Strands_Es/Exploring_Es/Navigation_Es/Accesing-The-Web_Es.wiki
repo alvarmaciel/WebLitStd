@@ -1,0 +1,15 @@
+<strong>Acceso a la Web utilizando las características comunes de los navegadores web</strong>
+
+ExamplesEjemplos::
+<ul>
+<li>Navegación por pesatañas</li>
+<ul>
+<li>crear varias pestañas en diferentes navegadores</li>
+<li> modificar la configuración de los navegadores para afectar las pestañas predeterminadas</li>
+</ul>
+<li>Marcadores / marcado</li>
+<ul>
+<li>crear un marcador</li>
+<li>Organizar una serie de marcadores</li>
+<li> Compartir marcadores con otros</li>
+</ul>

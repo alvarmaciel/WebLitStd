@@ -1,0 +1,19 @@
+<strong>Recognising the visual cues in everyday Web services</strong>
+
+Examples:
+<ul>
+<li>Notification services</li>
+<ul>
+<li>Understanding of the purpose of, and “message” behind notification services</li>
+<li>Modification or editing of settings in notification services to suit user needs
+</li>
+</ul>
+</ul>
+<ul>
+<li>Secure connection (HTTPS)
+</li>
+<ul>
+<li>identify the presence or non-presence of HTTPS on a browser</li>
+<li>idd or create secure connections to websites or web services</li>
+</ul>
+</ul>
