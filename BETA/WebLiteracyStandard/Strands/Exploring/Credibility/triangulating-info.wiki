@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <strong>Triangulación de la información de un número de fuentes para determinar la veracidad de la información</strong>
 
 Ejemplos:
@@ -6,4 +7,14 @@ Ejemplos:
 <li>Buscar para encontrar un sitio web que posiblemente critique o refute la información que originalmente estuviera leyendo</li>
 <li>Crear una historia falsa y luego encontrar la forma en que se</li>
 <li>Seguir las notas de Wikipedia footnotes y compararlas con otras tres fuentes confiables</li>
+=======
+<strong>Triangulating information from a number of sources to ascertain the veracity of information</strong>
+
+Examples:
+<ul>
+<li>Finding two web pages that support, or corroborate information you’re reading</li>
+<li>Searching to find a website that possibly critiques or refutes the information you originally were reading</li>
+<li>Creating a false story and then finding the ways in which it</li>
+<li>Following Wikipedia footnotes and comparison with three other trusted sources</li>
+>>>>>>> master
 </ul>

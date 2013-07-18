@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <strong>Instalación de los complementos del explorador y las extensiones para proporcionar funcionalidades adicionales</strong>
 
 Ejemplos:
@@ -7,4 +8,15 @@ Ejemplos:
 <li>Instalar Foxclocks para saber el hora es en el resto del mundo</li>
 <li>Usar Diigo para guardar, compartir y comentar los marcadores</li>
 <li>Usar HTTPS Anywhere para proveer de seguridad adicional al navegador</li>
+=======
+<strong>Installing browser add-ons and extensions to provide additional functionality</strong>
+
+Examples:
+<ul>
+<li>Using Adblock to be exposed to fewer adverts</li>
+<li>Utilising a download manager for faster downloading with resume functionality</li>
+<li>Installing Foxclocks to know what time it is around the world</li>
+<li>Using Diigo to save, share and comment on bookmarks</li>
+<li>Using HTTPS Anywhere to provide additional security in the browser</li>
+>>>>>>> master
 </ul>

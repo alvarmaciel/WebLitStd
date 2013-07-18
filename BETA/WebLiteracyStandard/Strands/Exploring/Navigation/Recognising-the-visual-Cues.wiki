@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <strong>Reconocer las señales visuales en los servicios habituales de la red</strong>
 
 Ejemplos:
@@ -6,14 +7,32 @@ Ejemplos:
 <ul>
 <li>Comprender el propósito y "mensajes" detras de los servicios de notificación</li>
 <li>Modificar o editar las configuraciones en los servicios de notificación para que se ajusten a las necesidades de los usuarios
+=======
+<strong>Recognising the visual cues in everyday Web services</strong>
+
+Examples:
+<ul>
+<li>Notification services</li>
+<ul>
+<li>Understanding of the purpose of, and “message” behind notification services</li>
+<li>Modification or editing of settings in notification services to suit user needs
+>>>>>>> master
 </li>
 </ul>
 </ul>
 <ul>
+<<<<<<< HEAD
 <li>Conexiones seguras (HTTPS)
 </li>
 <ul>
 <li>identificar la presencia o no presencia de HTTPS en un navegador</li>
 <li>Agregar o crear conexiones seguras hacia sitios o servicios web</li>
+=======
+<li>Secure connection (HTTPS)
+</li>
+<ul>
+<li>identify the presence or non-presence of HTTPS on a browser</li>
+<li>idd or create secure connections to websites or web services</li>
+>>>>>>> master
 </ul>
 </ul>

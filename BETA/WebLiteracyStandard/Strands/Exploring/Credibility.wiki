@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 <h2>Credibility</h2>
+=======
+>>>>>>> master
 <em>Critically evaluating information found on the Web</em>
 <p>The 'Credibility' competency is made up of the following skills:</p>
 * [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Credibility/markers-and-design-styles Recognising and using markers and design styles in assessing the credibility of information presented on the Web]
