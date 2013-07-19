@@ -1,6 +1,6 @@
 <strong>Acceso a la Web utilizando las características comunes de los navegadores web</strong>
 
-ExamplesEjemplos::
+Ejemplos:
 <ul>
 <li>Navegación por pesatañas</li>
 <ul>

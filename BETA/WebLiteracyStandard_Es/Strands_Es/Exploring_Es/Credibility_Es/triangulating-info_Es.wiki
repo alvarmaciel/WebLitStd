@@ -1,9 +1,9 @@
-<strong>Triangulating information from a number of sources to ascertain the veracity of information</strong>
+<strong>Triangulación de la información de un número de fuentes para determinar la veracidad de la información</strong>
 
-Examples:
+Ejemplos:
 <ul>
-<li>Finding two web pages that support, or corroborate information you’re reading</li>
-<li>Searching to find a website that possibly critiques or refutes the information you originally were reading</li>
-<li>Creating a false story and then finding the ways in which it</li>
-<li>Following Wikipedia footnotes and comparison with three other trusted sources</li>
+<li>Encontrar dos páginas web que corroboren o validen la información que se está leyendo</li>
+<li>Buscar para encontrar un sitio web que posiblemente critique o refute la información que originalmente estuviera leyendo</li>
+<li>Crear una historia falsa y luego encontrar la forma en que gane fuerza</li>
+<li>Seguir las notas de Wikipedia y compararlas con otras tres fuentes confiables</li>
 </ul>

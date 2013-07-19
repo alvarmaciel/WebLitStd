@@ -1,8 +1,8 @@
-<strong>Researching authorship and ownership using lookup tools</strong>
+<strong>Investigar la autoría y propiedad con herramientas de búsqueda</strong>
 
-Examples:
+Ejemplos:
 <ul>
-<li>Using WHOIS to ascertain website ownership</li>
-<li>Looking up an organization on an official government/regulatory website to see if it is legitimate</li>
-<li>Discovering which sites link back to the original site</li>
+<li>Usar WHOIS para comprobar los propietarios de sitio web</li>
+<li>Buscar una organización en una página gubernamental oficial para ver si es legítima</li>
+<li>Descubrir que sitios enlazan al sitio original</li>
 </ul>
