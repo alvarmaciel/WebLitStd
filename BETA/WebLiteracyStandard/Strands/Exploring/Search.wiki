@@ -1,3 +1,4 @@
+<h2>Search</h2>
 <em>Locating information, people and resources via the Web</em>
 <p>The 'Search' competency is made up of the following skills:</p>
 * [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Search/using-keyboard-shortcuts Using keyboard shortcuts to make Web searches more efficient]

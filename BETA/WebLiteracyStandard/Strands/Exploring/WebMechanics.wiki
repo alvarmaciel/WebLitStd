@@ -1,3 +1,4 @@
+<h2>Web Mechanics</h2>
 <em>Understanding the Web ecosystem</em>
 <p>The 'Web Mechanics' competency is made up of the following skills:</p>
 *  [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/WebMechanics/URLs-IPaddresses-search-terms Using, and understanding the difference between, URLs, IP addresses and search terms]

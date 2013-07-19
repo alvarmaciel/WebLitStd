@@ -1,3 +1,4 @@
+<h2>Navigation</h2>
 <em>Using software tools to browse the Web.</em>
 <p>The 'Navigation' competency is made up of the following skills:</p>
 *  [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Navigation/Accessing-The-Web Accessing the Web using the common features of Web browsers]
