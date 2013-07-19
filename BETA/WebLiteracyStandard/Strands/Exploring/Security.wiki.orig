@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 <h2>Security</h2>
 <em>Keeping systems, identities, and content safe</em>
 <p>The 'Security' competency is made up of the following skills:</p>
 * [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Security/detecting-online-scams Detecting online scams and 'phishing' by employing recognized tools and techniques]
 * [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Security/encrypting-data Encrypting data and communications using software and add-ons]
 * [https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring/Security/changing-default-behavior Changing the default behavior of websites, add-ons and extensions to make Web browsing more secure]
+=======
+<em>Keeping systems, identities, and content safe</em>
+<p>The 'Security' competency is made up of the following skills:</p>
+* Detecting online scams and 'phishing' by employing recognised tools and techniques
+* Encrypting data and communications using software and add-ons
+* Changing the default behaviour of websites, add-ons and extensions to make Web browsing more secure
+>>>>>>> Strands and Exploring Strands wiki page Uploaded to translate #weblitstd
