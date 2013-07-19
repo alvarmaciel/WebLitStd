@@ -1,6 +1,6 @@
 <strong>Cambio del comportamiento predeterminado de sitios web, add-ons y extensiones para hacer la navegación web más seguro</strong>
 
-Examples:
+Ejemplos:
 <ul>
 <li>Usar extensiones como NoScript para habilitar JavaScript, Java y Flash sólo a sitios confiables</li>
 </ul>
