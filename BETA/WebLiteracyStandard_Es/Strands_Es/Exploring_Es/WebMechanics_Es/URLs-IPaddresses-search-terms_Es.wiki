@@ -2,7 +2,7 @@
 
 Ejemplos:
 <ul>
-<li>Usar la la barra de navegaciónn para ingresar direcciones web o direcciones ip de las páginas web</li>
+<li>Usar la la barra de navegación para ingresar direcciones web o direcciones ip de las páginas web</li>
 <li>Manipular la URL de una dirección web para moverse a otra parte del sitio web</li>
 <li>Usar la caja de búsqueda en el motor de búsqueda del navegador para buscar un sitio web</li>
 <li>Explicar como los DNS resuelven los nombres de las URL a direcciones IP</li>

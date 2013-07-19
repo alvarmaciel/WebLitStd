@@ -1,6 +1,6 @@
 <strong>Mantenerse al día con las fuentes de información en la Web</strong>
 
-Examples:
+Ejemplos:
 <ul>
 <li>Comprender los feeds RSS, y ser capaz de encontrar/usar el feed RSS de un sitio web</li>
 <li>Trabajar con, y mejorar, los lectores RSS</li>

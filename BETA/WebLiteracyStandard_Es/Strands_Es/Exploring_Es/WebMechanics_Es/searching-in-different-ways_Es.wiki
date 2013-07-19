@@ -1,6 +1,6 @@
 <strong>Demostrar las diferencias entre buscar en diferentes formas/contextos/sitios</strong>
 
-Examples:
+Ejemplos:
 <ul>
 <li>Usar herramientas como ‘Collusion’ para visualizar organizaciones que siguen tus búsquedas en la Web</li>
 <li>Mostrar como limpiar las cookies pueden afectar los resultados de las búsquedas</li>
