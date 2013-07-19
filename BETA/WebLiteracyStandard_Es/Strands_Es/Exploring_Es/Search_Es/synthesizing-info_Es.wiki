@@ -1,8 +1,8 @@
-<strong>Synthesizing information found from online resources</strong>
+<strong>Sintetizar la información encontrada de los recursos en línea</strong>
 
-Examples:
+Ejemplos:
 <ul>
-<li>Combining information from two or more web pages obtained while exploring online</li>
-<li>Combining multimodal information (video, audio, image) from two different web pages</li>
-<li>Integrating your own opinion into what you have learned while searching online information</li>
+<li>Combinar información de dos o más páginas web obtenidas mientras se explora en línea</li>
+<li>Combinar información mutimodal (video, audio, imágenes) de dos paginas diferentes</li>
+<li>Integrar tu propia opinión en lo que aprendiste mientras buscas información en línea</li>
 </ul>

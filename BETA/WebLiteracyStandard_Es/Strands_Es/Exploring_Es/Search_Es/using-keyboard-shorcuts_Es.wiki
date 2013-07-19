@@ -1,8 +1,8 @@
-<strong>Using keyboard shortcuts to make Web searches more efficient</strong>
+<strong>Usar atajos de teclado para hacer las búsquedas en la Web más eficientes</strong>
 
-Examples:
+Ejemplos:
 <ul>
-<li>Finding specific bits of text using CTRL-F/CMD+F</li>
-<li>Navigating a webmail inbox using keyboard shortcuts</li>
+<li>Encontrar a partes específicas del texto utilizando CTRL+F/CMD+F</li>
+<li>Navegar una casilla de webmail usando atajos de teclado</li>
 <li>Finding relevant shortcuts and altering them within your browser</li>
 </ul>

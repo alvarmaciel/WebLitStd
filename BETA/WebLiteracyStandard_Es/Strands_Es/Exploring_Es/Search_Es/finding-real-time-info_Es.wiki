@@ -1,8 +1,8 @@
-<strong>Finding real-time or time-sensitive information using a range of search techniques</strong>
+<strong>Encontrar información en tiempo real o información sensitiva en el tiempo usando una serie de técnicas de búsqueda</strong>
 
-Examples:
+Ejemplos:
 <ul>
-<li>Understanding the difference between “time” in search engine results, and “real-time” searches</li>
-<li>Searching microblogging services</li>
-<li>Using Google’s Ngram viewer to see how popular a search term has been over time</li>
+<li>Comprender la diferencia entre "fecha" y "tiempo real" en los motores de búsqueda</li>
+<li>Buscar en los servcios de microblogging</li>
+<li>Usar Google Ngram viewwer para ver cuan popolar se ha vuelto una terminao de búsqueda a través del tiempo</li>
 </ul>

@@ -1,9 +1,9 @@
-<strong>Entering search operators and keywords to find information efficiently</strong>
+<strong>Ingresar operadores de búsqueda y palabras claves para encontrar información de forma eficiente</strong>
 
-Examples:
+Ejemplos:
 <ul>
-<li>Changing the order of keywords in search queries in a strategic way</li>
-<li>Using Boolean operators</li>
-<li>Adding quotation marks to get a specific phrase in search results</li>
-<li>Using search tools (such as 'date published') to narrow or filter search information</li>
+<li>Cambiar el oren de las palabras claves en las búsquedas de forma estratégica</li>
+<li>Usar operadores Boleanos</li>
+<li>Agregar comillas para obtener frases especificas en los resultados de las búsquedas</li>
+<li>Usar herramientas de búsqueda (como 'fecha de publicación') para ajustar o filtrar la información de las búsquedas</li>
 </ul>

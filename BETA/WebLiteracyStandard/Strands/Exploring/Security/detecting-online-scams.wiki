@@ -1,8 +1,8 @@
-<strong>Detecting online scams and 'phishing' by employing recognised tools and techniques</strong>
+<strong>Detección de fraudes en línea y 'phishing' mediante el empleo de herramientas y técnicas reconocidas</strong>
 
-Examples:
+Ejemplos:
 <ul>
-<li>Considering the individual or group sending the message</li>
-<li>Turning on link previews in social media tools</li>
-<li>Copying-and-pasting links rather than clicking on emails</li>
+<li>Considerar la perosna o el grupo que envía el mensaje</li>
+<li>Habilitar las vistas previas de enlaces en las herramientas de redes sociales</li>
+<li>Copiar y pegar enlaces en lugar de cliquear directamente del mail</li>
 </ul>

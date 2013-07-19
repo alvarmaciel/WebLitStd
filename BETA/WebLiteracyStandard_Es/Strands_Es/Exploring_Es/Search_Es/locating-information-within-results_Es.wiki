@@ -1,8 +1,8 @@
-<strong>Locating or finding desired information within search results</strong>
+<strong>Localizar o encontrar la información deseada en los resultados de las búsquedas</strong>
 
-Examples:
+Ejemplos:
 <ul>
-<li>Finding information within a list of search engine results</li>
-<li>Locating information on a webpage</li>
-<li>Using an internal search engine to fine-tune search results</li>
+<li>Buscar información dentro de una lista de resultados de los motores de búsqueda</li>
+<li>Localizar información en una página web</li>
+<li>Usar un motor de búsqueda interno para afinar los resultados de la búsqueda</li>
 </ul>
